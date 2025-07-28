@@ -1,0 +1,97 @@
+🚀🔥 JavaScript Crash Course (2024) | Hindi | Notes | Certificate
+
+-Complete Coding by Prashant Sir
+ 
+ Link : https://www.youtube.com/watch?v=_eHc5K0zAPw 
+
+#(00:00) Introduction 👷
+#(03:28) 1 History of JavaScript 🧮
+    ✹ Renamed -as   Mocha ---> LiveScript --> JavaScript
+    ✹ Created by Brendan Eich (1995) while working in  Netscape Communication
+    ✹ interpreted Language which execute line by line (not compiled)
+
+#(05:31) 2 What is JavaScript 📲
+    ✹ high level, dynamic programming language which create interactive effects within web browser.
+    ✹ Action -> enables interactivity
+    ✹ Updates -> alters page without reloading 
+    ✹ Events -> Responds to user actions.
+    ✹ Date -> Fetches and sends info to server.
+
+#(07:04) 3 Popularity of JavaScript ⏰ (Most Popularity)
+#(09:18) 4 Applications of JavaScript 📊
+    ✹ Web Applications -> react js , angular , Vue.js
+    ✹ Server side -> node.js , Express.js
+    ✹ Mobile application -> react native, ionic, NativeScript
+    ✹ Build Tools -> Webpack, Parcel and Gulp
+    ✹ desktop application -> Electron, NW.js
+    ✹ Camera & Speakers -> Three.js, WebRTC, & Howler.js
+
+#(14:38) 5 Runtime Environment 👥
+    ✹ Google -> google V8
+    ✹ Firefox -> SpiderMonkey
+    ✹ Edge -> Chakra now it also use Google V8
+    ✹ Safari -> JavaScript core
+
+#(17:55) 6 JavaScript vs ECMA 🏦
+    ✹ECMAScript is the standardized specification developerd by ECMA Internationl that defines the core features, syntax & fucnationlites of JavaScript and similar scripting languages.
+    ✹ JavaScript is the actual languages implemenation 
+    ✹ 1997 -> ES1 , 1998 -> ES2, 1999 -> ES3, 2009 -> ES5, 2015 -> ES2015, 2016 -> ES2016,  2017 -> ES2017 
+    ✹ECMAScript is recomdatation & JavaScript is an implemenation
+
+#(20:18) 7 JavaScript vs TypeScript 🎲
+    ✹ JavaScript runs at the client side in the browser.
+    ✹ Coffee script / TypeScript are transpiled to JavaScript . Typscipt convert in js before compile.
+
+#(24:35) 8 JavaScript in Console 🧮
+    ✹ Browser -> right click-> Inspect -> console tab 
+
+#(28:24) 9 JavaScript in Webpage 📲
+    ✹ Console Methods : log, warn, error, clear
+
+    
+    
+#(40:05) 10 DOM Manipulation ⏰
+     ✹ Refer DOM.html and DOM.js
+
+#(43:24) 11 JavaScript with Node 📊
+    ✹ JavaScript Runtime : Node.js is an open-source, cross platform Environment for executing JavaScript code outside the browser.
+    ✹Node Js is a js in a different Environment means running JS on the server or any computer.
+    ✹ Built on Chrome's V8 Engine: it runs on the v8 engine, which compiles JavaScript directly to native machine code, enhancing performance.
+    ✹ V8 is written in C++ for speed.
+    ✹ V8 (80%) + Backend Feature = NodeJS
+
+
+#(46:57) Revision
+
+//Core concept of js (coreConcept_of_js.js)
+
+#(50:30) 12 Arithmetic Operators 🧮
+#(55:28) 13 Variables 📲
+#(1:12:26) 14 Ways to Create Variables ⏰
+#(1:18:35) 15 Primitive Types 📊
+#(1:36:47) 16 typeof Operator 👥
+#(1:39:51) 17 Comparison Operators 🏦
+#(1:44:17) 18 if-else 🎲
+#(1:53:23) 19 Logical Operators 🧮
+#(2:00:11) 20 Functions 📲 (function.js)
+#(2:16:22) 21 Loops ⏰ (loop.js)
+#(2:24:57) 22 For Loop 📊
+#(2:27:57) 23 Callbacks and Async Code 👥 (callback.js)
+#(2:34:37) 24 Anonymous Functions as Values 🏦 (anonymousFunction.js)
+#(2:40:32) Revision
+
+//Adavance concepts  (advanceConcept_of_js.js)
+
+#(2:43:27) 24 Object Oriented Language 🧮
+#(2:47:15) 25 Working with Objects 📲
+#(2:54:13) 26 Reference Types ⏰
+#(2:59:13) 27 Arrays 📊
+#(3:06:06) 28 for-each Loop 👥
+#(3:10:02) 29 Array Methods 🏦
+#(3:11:41) 30 Arrow Functions 🎲
+#(3:16:37) 31 De-structuring 🧮
+#(3:18:57) 32 Spread & Rest Operator 📲
+#(3:24:50) 33 Promises ⏰
+#(3:32:56) 34 Fetch API 📊
+#(3:37:20) 35 Async / Await 👥
+#(3:43:00) Revision 👋
