@@ -31,6 +31,51 @@ console.log("---24---OBJECT ORIENTED LANGUAGES---------------");
 
      //? Object.js
 
+    console.log("---26 Reference Types ⏰---------------");
+   /*  (primitiv(Number, String, Boolean, undefined, null) Vs Refernce Type(objects, Array, funcation))
+    Refer reference.js
+      * Objects work based on references, not actual Data .
+      * Copying an objects copies the references, not the actual objects.
+      * When comparing with ==, you're comparing references, not content.
+      * Changes to one references affects all copies */
+
+
+    console.log("---27---ARRAYS---------------");
+    //? array.js
+     /*  * An array is just a list of values
+      * Index : start with 0
+      * Arrays are used for storing multiple values in a single variables
+      
+      let myArray = [1, 'KG coding',null, true, likes: '1 Million'];
+
+      * use [] creates a new array, [ ] brackets encloses list of values,
+      * Arrays can be saved to a variables
+      * Accessing values : Use [] with index
+            + brackets start and end the array
+            + Values seprated by Commas
+            + can span multiple Lines.
+      * array can hold any values, including arrray.
+      * types of operator on array Return Objects */
+
+    console.log("---28---FOR-each-loop---------------");
+   /*    * A method for arrary iteration, oftern preferd for readablilty.
+      * Prameters : One for ClipboardItem, optional second for index.
+      *  Using return is simialar to continue in trational loops.
+      * Not striaghtforward to break out of a forEach loop.
+      *  When you need to perform an action on each array elements and don't need to break early. */
+
+   let food = ['bread', 'rice', 'meat' , 'pizza'];
+   food.forEach( function(food){
+      console.log(food);
+   });
+
+   //? foreach.js
+
+
+   
+   
+    
+
 
 
 
